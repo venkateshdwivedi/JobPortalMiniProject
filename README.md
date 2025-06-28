@@ -1,6 +1,6 @@
  Job Portal Web App
 
-This is a simple Job Portal web application built using **Spring MVC**, **JSP**, and **Bootstrap**.
+This is a simple Job Portal web application built using **Spring Boot**, **JSP**, and **Bootstrap**.
 
 It allows users to:
 
