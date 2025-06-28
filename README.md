@@ -23,7 +23,7 @@ Features
 Technologies Used
 
 1. Java
-2. Spring MVC
+2. Spring Boot (Web Starter)
 3. JSP (Java Server Pages)
 4. JSTL (JSP Standard Tag Library)
 5. Bootstrap 5
